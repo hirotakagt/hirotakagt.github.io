@@ -1,20 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Hirotaka Goto</title>
-    <link>https://hirotakagt.github.io/tags/about/</link>
-    <description>Recent content in About on Hirotaka Goto</description>
+    <title>Hirotaka Goto</title>
+    <link>https://hirotakagt.github.io/</link>
+    <description>Recent content on Hirotaka Goto</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright © 2025</copyright>
-    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="https://hirotakagt.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Dec 2024 17:53:22 +0900</lastBuildDate>
+    <atom:link href="https://hirotakagt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://hirotakagt.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 28 Dec 2024 17:53:22 +0900</pubDate>
+      <guid>https://hirotakagt.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hello.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About</title>
       <link>https://hirotakagt.github.io/about/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       <guid>https://hirotakagt.github.io/about/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I am a first-year Ph.D. student in the &lt;a href=&#34;https://www.meiji.ac.jp/cip/english/graduate/ams/index.html&#34;&gt;Graduate School of Advanced Mathematical Sciences&lt;/a&gt; at &lt;a href=&#34;https://www.meiji.ac.jp/cip/english/&#34;&gt;Meiji University&lt;/a&gt;. I also work as a &lt;a href=&#34;https://gyoseki1.mind.meiji.ac.jp/mjuhp/KgApp?resId=S003902&amp;amp;Language=2&#34;&gt;Research Associate&lt;/a&gt; in the &lt;a href=&#34;https://www.meiji.ac.jp/cip/english/undergraduate/ims/index.html&#34;&gt;School of Interdisciplinary Mathematical Sciences&lt;/a&gt;.&#xA;My research revolves around complex systems, exploring topics ranging from social dynamics to mathematical biology. I use tools from statistical physics, mathematics, and computation to uncover the fundamental principles underlying a diverse array of phenomena.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hirotakagt.github.io/cv/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hirotakagt.github.io/cv/cv/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>
 </rss>
