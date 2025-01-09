@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hirotaka Goto</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Hirotaka Goto</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2024</copyright>
+    <lastBuildDate>Sat, 28 Dec 2024 21:04:18 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Papers</title>
+      <link>http://localhost:1313/papers/papers/</link>
+      <pubDate>Sat, 28 Dec 2024 21:04:18 +0900</pubDate>
+      <guid>http://localhost:1313/papers/papers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 28 Dec 2024 17:53:22 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hello.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/my-first-post/</link>
+      <pubDate>Sat, 28 Dec 2024 17:39:17 +0900</pubDate>
+      <guid>http://localhost:1313/blog/my-first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I am a first-year Ph.D. student in the &lt;a href=&#34;https://www.meiji.ac.jp/cip/english/graduate/ams/index.html&#34;&gt;Graduate School of Advanced Mathematical Sciences&lt;/a&gt; at &lt;a href=&#34;https://www.meiji.ac.jp/cip/english/&#34;&gt;Meiji University&lt;/a&gt;. I also work as a &lt;a href=&#34;https://gyoseki1.mind.meiji.ac.jp/mjuhp/KgApp?resId=S003902&amp;amp;Language=2&#34;&gt;Research Associate&lt;/a&gt; in the &lt;a href=&#34;https://www.meiji.ac.jp/cip/english/undergraduate/ims/index.html&#34;&gt;School of Interdisciplinary Mathematical Sciences&lt;/a&gt;.&#xA;My research revolves around complex systems, exploring topics ranging from social dynamics to mathematical biology. I use tools from statistical physics, mathematics, and computation to uncover the fundamental principles underlying a diverse array of phenomena.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cv/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/cv/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>
