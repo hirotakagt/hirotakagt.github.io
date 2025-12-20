@@ -2,12 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Hirotaka Goto</title>
-    <link>https://hirotakagt.github.io/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on Hirotaka Goto</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright © 2025</copyright>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://hirotakagt.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Dec 2024 17:39:17 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/my-first-post/</link>
+      <pubDate>Sat, 28 Dec 2024 17:39:17 +0900</pubDate>
+      <guid>http://localhost:1313/blog/my-first-post/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
